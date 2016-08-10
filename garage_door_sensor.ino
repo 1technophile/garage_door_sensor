@@ -10,7 +10,7 @@
   
   Documentation:
   Project home: https://github.com/1technophile/garage_door_sensor
-  Blog: http://1technophile.blogspot.com/2016/08/garage-door-sensor.html
+  Blog: http://1technophile.blogspot.fr/2016/08/garage-door-sensor-arduino-nano.html
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software 
 and associated documentation files (the "Software"), to deal in the Software without restriction, 
 including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, 
