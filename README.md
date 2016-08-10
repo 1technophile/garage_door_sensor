@@ -1,17 +1,17 @@
 # garage_door_sensor
 
-  This program enables to send state of a garage door thanks to a sonar:
+This program enables to send state of a garage door thanks to a sonar:
  - send open signal every 10 seconds if the sonar return a value > to 15cm
  - send close signal if after sending open signal the sonar return a value < 15cm
  
- Contributors:
-  - 1technophile
-  - 
-  Based on the libraries:
+Contributors:
+- 1technophile
+
+Based on the libraries:
   - RCSwitch
   - NewPing
   
-  Documentation:
+Documentation:
   Project home: https://github.com/1technophile/garage_door_sensor
   Blog: http://1technophile.blogspot.com/2016/08/garage-door-sensor.html
 
@@ -25,4 +25,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL 
 THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF 
 CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-*/
+
