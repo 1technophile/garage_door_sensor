@@ -1,6 +1,4 @@
 /*
-  Low power node  - ATMega328p program to send humidity, temperature, hygrometry and battery voltage
- 
   This program enables to send state of a garage door thanks to a sonar:
  - send open signal every 10 seconds if the sonar return a value > to 15cm
  - send close signal if after sending open signal the sonar return a value < 15cm
